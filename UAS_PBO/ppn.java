@@ -5,7 +5,7 @@
 
 /**
  *
- * @author WINDOWS 10
+ * @author Nimas Ayu Anggun Kharisma (22104410051)
  */
 public interface ppn {
     
